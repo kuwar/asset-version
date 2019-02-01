@@ -1,5 +1,5 @@
 {
-    "name": "Kuwar/asset-version",
+    "name": "kuwar/asset-version",
     "description": "Provides versioning of assets using git Hash.",
     "type": "symfony-extension",
     "license": "MIT",
