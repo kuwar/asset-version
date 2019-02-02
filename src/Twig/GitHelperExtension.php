@@ -9,7 +9,7 @@ use Twig_SimpleFunction;
  * A class to retrieve the git last commit hash.
  * (We might not need this class in the future but for the time being it helps in solving the javascript/css cache problem)
  *
- * @author Deepak Pandey
+ * @author Shaurave Kumar Kuwar
  */
 class GitHelperExtension extends Twig_Extension
 {
